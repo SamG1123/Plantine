@@ -1,0 +1,1 @@
+Open the file in jupyter notebook and run all the cells from starting
